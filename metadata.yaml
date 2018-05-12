@@ -1,0 +1,41 @@
+_repo: '-------------------_37131'
+_version: 0.1.0
+alternative_title: Cyrano de Bergerac. Greek
+contributor:
+  translator:
+    agent_name: Stratigis, George
+    aliases:
+    - Stratigis, Georgios
+    - Στρατήγης, Γεώργιος
+    birthdate: 1860
+    deathdate: 1938
+    gutenberg_agent_id: '38668'
+    url: http://www.gutenberg.org/2009/agents/38668
+    wikipedia: http://el.wikipedia.org/wiki/%CE%93%CE%B5%CF%8E%CF%81%CE%B3%CE%B9%CE%BF%CF%82_%CE%A3%CF%84%CF%81%CE%B1%CF%84%CE%AE%CE%B3%CE%B7%CF%82
+covers:
+- cover_type: archival
+  image_path: 37131-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Rostand, Edmond
+    birthdate: 1868
+    deathdate: 1918
+    gutenberg_agent_id: '575'
+    url: http://www.gutenberg.org/2009/agents/575
+    wikipedia: http://en.wikipedia.org/wiki/Edmond_Rostand
+description: ''
+gutenberg_issued: '2011-08-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37131'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cyrano de Bergerac, 1619-1655 -- Drama'
+- !lcsh 'France -- History -- 17th century -- Drama'
+- !lcc 'PQ'
+- !lcsh 'Authors, French -- 17th century -- Drama'
+title: Συρανό δε Μπερζεράκ
+url: http://www.gutenberg.org/ebooks/37131
