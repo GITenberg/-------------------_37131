@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/575
     wikipedia: http://en.wikipedia.org/wiki/Edmond_Rostand
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37131#-------------------
 gutenberg_issued: '2011-08-19'
 gutenberg_type: Text
 identifiers:
